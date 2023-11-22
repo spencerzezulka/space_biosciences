@@ -1,0 +1,1 @@
+TITLE-ABS-KEY ( astrobiolog*  OR  cosmobiolog*  OR  exobiolog*  OR  bioastronom*  OR  ( ( extraterrestrial  OR  exoplanet  OR  enceladus  OR  europa )  AND  habitab* )  OR  *panspermi* )  OR  KEY ( "origin of life"  OR  "RNA world"  OR  "DNA world"  OR  "prebiotic chemistry"  OR  "extant life detect*"  OR  "*extraterrestrial life"  OR  seti )
